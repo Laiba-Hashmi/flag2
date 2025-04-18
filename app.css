@@ -1,0 +1,19 @@
+.flag{
+    width: 700px;
+    height: 400px;
+    border: solid black;
+    background-color:#64a0ce;
+}
+span{
+    font-size: 400%;
+    color: white;
+}
+#a,#d{
+    padding-left: 300px;
+}
+#b{
+    padding-inline: 180px;
+}
+h1{
+    padding-left: 200px;
+}
